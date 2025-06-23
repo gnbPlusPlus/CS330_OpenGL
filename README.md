@@ -2,7 +2,8 @@
 How do I approach designing software?
 -
 I approach designing software by reviewing my available tools, reading any prewritten code and comments, and setting up TODO sections that modularize programs into separate functions. Being given partially written programs for schoolwork feels similar to workplace scenarios in which I'll be working with a team on a single program. As such, it's excellent practice to familiarize myself with parts of the code I didn't write before editing any TODO sections. This simple act often clears up questions before they arise, although larger programs would require skimming or searching, instead.
-/n
+
+
 Reviewing the pre-existing code was the key to success for this OpenGL project. Learning how to create, transform, texture, and light shapes came from examining what features already existed in the provided code. This taught me what function calls to use (and how to use them) when summoning my own shapes from the low-level code.
 
 How do I approach developing programs?
